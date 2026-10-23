@@ -28,8 +28,10 @@ PHOENIX28 赛季视觉培训文档仓库
       </center>
    </div>
 
+**截止时间**：`11月15号 23:59`
+
 ---
 
 ## 作业二：Matrix矩阵类
 **作业内容**：完成homework中的矩阵类，作业说明见`homework->Matrix->main.cpp`，[传送门](./homework/Matrix/main.cpp)
-**截止时间**：11月22号
+**截止时间**：`11月22号 23:59`
