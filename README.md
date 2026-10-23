@@ -1,3 +1,35 @@
 # tutorial_s28
 
-28赛季视觉培训文档仓库
+PHOENIX28 赛季视觉培训文档仓库
+
+**作业提交方式**：请先 fork 本仓库，并在截止时间前通过 Pull Request 提交。
+
+## 作业一：洛谷 C++ 基础
+
+**作业内容**：完成洛谷「训练题单」中入门 1–6 的题目，每个题单各 5 题，共 30 题。[洛谷传送门](https://www.luogu.com.cn)
+
+<div>			
+      <center>	
+      <img src="./imgs/洛谷题单.png"
+            alt="洛谷题单"/>
+      <br>		
+      洛谷题单
+      </center>
+   </div>
+
+**提交方式**：在 `imgs/` 下新建 `luogu/` 文件夹，并在其中建立 `1` 至 `6` 六个子文件夹，将各题通过（AC）的截图放入对应编号的文件夹中。
+
+<div>			
+      <center>	
+      <img src="./imgs/ac示例.png"
+            alt="ac示例"/>
+      <br>		
+      ac示例
+      </center>
+   </div>
+
+---
+
+## 作业二：Matrix矩阵类
+**作业内容**：完成homework中的矩阵类，作业说明见`homework->Matrix->main.cpp`，[传送门](./homework/Matrix/main.cpp)
+**截止时间**：11月22号
